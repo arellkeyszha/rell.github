@@ -8,12 +8,12 @@ const nextPageButton = document.getElementById('nextPageButton');
 const loveEffect = document.querySelector('.love-effect');
 
 const messages = [
-    "Happy Valentine's Day!",
-    "Stay here, don't leave, and accompany me until we grow old together.",
-    "You are my destination in both happiness and sorrow.",
-    "I can't imagine how shattered my days would be if you were no longer here.",
-    "If you ever feel bored, stay here.",
-    "Let me fix everything to make you comfortable and never want to leave for someone else."
+    "SEMANGATTT NUGASSNYA YAA TEKNIKNYA ISI!!",
+    "aku yakin tsalitsa pasti bisa koo.",
+    "yakin tsalitsa bisa membantai semua tugas matkul FTV.",
+    "apalagi folklor folklor itu, pasti bikin pusing ya, tapi pelan-pelan satu-satu pasti selesai ko, jangan lupa istirahat juga",
+    "semoga semua tugasmu lancar dan segera kelar yaa, fightingg!!",
+    "PASTI BISA KUMLOT 3,5 TAHUNN..."
 ];
 
 
